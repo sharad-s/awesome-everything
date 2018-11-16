@@ -11,3 +11,10 @@
 
  ### Wisdom
   - [Sam Altman - Choosing Projects, Creating Value, Finding Purpose (Interview)](https://blog.ycombinator.com/sam-altman-on-choosing-projects-creating-value-and-finding-purpose/)
+
+
+## Awesome React
+
+### React + Mixpanel
+ - [Setting up Mixpanel in React (Medium)](https://medium.com/@andrewoons/setting-up-mixpanel-in-react-3e4c5b8c2a36)
+ - [Mixpanel Implementation for Devs (Youtube)](https://www.youtube.com/watch?v=Ogt1YqABpAE)
