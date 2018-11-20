@@ -20,7 +20,16 @@
  - [Mixpanel Implementation for Devs (Youtube)](https://www.youtube.com/watch?v=Ogt1YqABpAE)
 
 
-## Awesome Sketch 
+## Awesome Design 
 
-### Resources
+### UI/UX
+ - [Minimum Viable Designs (Site)](https://minimumviabledesigns.com/)
+
+### Sketch Resources
   - [SketchAppSources](https://www.sketchappsources.com/)
+
+
+## Awesome IPFS 
+
+### Framing 
+ - [IPFS All-Hands 11/19 - Framing (Youtube)](https://youtu.be/u0XtXAPBkR4)
