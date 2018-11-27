@@ -106,24 +106,24 @@
  - https://medium.com/metamask/metamask-labs-presents-mustekala-the-light-client-that-seeds-data-full-nodes-vs-light-clients-3bc785307ef5
  - https://github.com/JoinColony/node-metamask
 
-## Uport
+### Uport
  - https://github.com/uport-project/3box
 
-## Plasma
+### Plasma
  - https://medium.com/loom-network/deploying-your-first-app-to-loom-plasmachain-installing-loom-setting-up-your-environment-and-b04aecfccf1f
  - https://www.learnplasma.org/en/
 
-## State Channels
+### State Channels
  - https://learnchannels.org/
  - https://hackernoon.com/difference-between-sidechains-and-state-channels-2f5dfbd10707
  - https://www.linkedin.com/pulse/zk-snarks-zero-knowledge-proofs-dummies-david-dooley/
  - https://youtu.be/VUN35BC11Qw?list=WL
 
-## Status
+### Status
  - https://status.im/extensions/key_concepts.html
  -
 
-## Kyber
+### Kyber Network
  - https://developer.kyber.network/docs/WidgetGenerator/
 
 
@@ -141,7 +141,7 @@
 ### Online Postings
  - http://jobs.reactiflux.com/
 
-## Online Accounts
+## Social Media
 
 ### Twitter Accounts
 - https://twitter.com/justinsliao
@@ -155,6 +155,11 @@
  - https://twitter.com/justinsliao/status/1044637845615505409
 
 ### Blogs
+ - Farnam Street
+ - Paul Graham
+ - Michael Seibel
+ - Sam Altman
+ 
 
 ### Youtubers
  - Coldfusion
@@ -189,8 +194,8 @@
 - Paul Buchheit on Joining Google, How to Become a Great Engineer, and Happiness - https://news.ycombinator.com/item?id=18248525
 - https://news.ycombinator.com/item?id=17717727 Holloway guide to equity comp
 - https://devpost.com/software/visualizing-consensus Visualizing consensus ethsf '18
-- 
-
+- https://www.reddit.com/r/DataHoarder/comments/9ifnda/600_gb_corpus_of_all_paywalled_scholarly_sources/ hell yea mf
+- https://aws.amazon.com/training/learning-paths/machine-learning/	aws free ML cert
 
 
 
