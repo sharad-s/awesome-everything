@@ -141,7 +141,7 @@
 ### Online Postings
  - http://jobs.reactiflux.com/
 
-## Social Media
+## Media
 
 ### Twitter Accounts
 - https://twitter.com/justinsliao
@@ -153,6 +153,8 @@
 ### Twitter Posts/Threads
  - https://twitter.com/justinsliao/status/1044352719283195905
  - https://twitter.com/justinsliao/status/1044637845615505409
+- https://twitter.com/farnamstreet/status/1059449915066085376
+
 
 ### Blogs
  - Farnam Street
@@ -160,24 +162,34 @@
  - Michael Seibel
  - Sam Altman
  
+### Recommended Books
+ - https://fs.blog/reading-2018/
+ - https://twitter.com/AustinLieb/status/1065984913453850626
+ - https://twitter.com/cjking711/status/1060734468875534336
+ - "The Long Tail" - https://twitter.com/justinsliao/status/1024413666148540417
+ - Siddhartha
+ - https://twitter.com/myles_snider/status/1009443902204579841
+ - https://twitter.com/patrick_oshag/status/804756458126639105
+
+
 
 ### Youtubers
  - Coldfusion
- -
+ - Caspian Report
 
-## Other
- - https://www.reddit.com/r/Piracy/comments/9z0ow8/follow_up_working_on_new_torrent_search_engine/
+## Sort Later
+ - https://www.reddit.com/r/Piracy/comments/9z0ow8/follow_up_working_on_new_torrent_search_engine/ Torrent Search engine
  - https://youtu.be/V-UvSKe8jW4 How to remember everything you learn
  - https://youtu.be/IaODRYKFbrc Why Constant Learners embrace the 5 hr rule
  - https://itnext.io/create-compelling-documentation-with-github-pages-16e4149efe9e?gi=8ec5ec8c1e0c
  - https://youtu.be/uEl2KUZ3JWA
- - Exercism
+ - Exercism - learn/practice go
  - https://news.ycombinator.com/item?id=18482518 Websockets a conceptual deep dive
  - https://hamberg.no/gtd/#the-in-list%23the-in-list Getting things done in programming
  - https://ethereum.stackexchange.com/questions/10681/what-are-ipc-and-rpc IPC vs RPC
  - https://elementary.io/
  - https://news.ycombinator.com/item?id=18469649
- - https://marian42.itch.io/wfc
+ - https://marian42.itch.io/wfc - wave function collapse to procedurally generate cities 
  - https://fs.blog/2017/08/amateurs-professionals/
  - https://github.com/drhus/awesome-identicons
 - https://blotter.js.org/#/materials
@@ -196,6 +208,11 @@
 - https://devpost.com/software/visualizing-consensus Visualizing consensus ethsf '18
 - https://www.reddit.com/r/DataHoarder/comments/9ifnda/600_gb_corpus_of_all_paywalled_scholarly_sources/ hell yea mf
 - https://aws.amazon.com/training/learning-paths/machine-learning/	aws free ML cert
+- https://www.reddit.com/r/learnprogramming/comments/a1be2l/learndb_learn_how_to_program_a_database_from/ learn DB programming
+- https://cs.stanford.edu/people/widom/DB-mooc.html DB MOOC @ stanford
+- https://symsys.stanford.edu/ symbolic systems program @ stanford
+
+
 
 
 
