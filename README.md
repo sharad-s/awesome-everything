@@ -11,24 +11,27 @@
 
 ### Wisdom
   - [Sam Altman - Choosing Projects, Creating Value, Finding Purpose (Interview)](https://blog.ycombinator.com/sam-altman-on-choosing-projects-creating-value-and-finding-purpose/)
-  - https://news.ycombinator.com/item?id=18400020 Doing things that don't scale
+  - [Doing things that don't scale (HackerNews)](https://news.ycombinator.com/item?id=18400020)
+  - [The Y-Combinator - A crash-course on lambda calculus (Medium)](https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46#.czis6rxni)
 
 
 
 ## Awesome HTML/CSS/JS
 
 ### Learn JS
- - https://jshandbook.com/
- -  https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers/
- - 
+ - [The JavaScript Handbook (Website)](https://jshandbook.com/)
+ - [The 21 Best Awesome Lists for Node.js Developers (List)](https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers/)
 
 ### Learn CSS
- - https://medium.com/@shuvohabib/learn-css-grid-and-flexbox-fundamentals-before-2019-hits-the-ground-765010c6e21f?sk=973a4fb7684e11a363d7ad9f03aaf400
- - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ - [Learn CSS Grid and Flexbox fundamentals before 2019 hits the ground (Medium)](https://medium.com/@shuvohabib/learn-css-grid-and-flexbox-fundamentals-before-2019-hits-the-ground-765010c6e21f?sk=973a4fb7684e11a363d7ad9f03aaf400)
+ - [A Complete Guide to Flexbox (Website)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### CSS Libraries
- - https://github.com/arcticicestudio/nord
+ - [Nord: An arctic, north-bluish color palette (Github)](https://github.com/arcticicestudio/nord)
 
+### Cool stuff 
+ - [Breaking The Norm With Creative CSS (YouTube)](https://youtu.be/Qw9WnUMXUPc)
+ - [anime.js (Website)](http://animejs.com/)
 
 ## Awesome React
 
@@ -67,6 +70,10 @@
   - [SketchAppSources](https://www.sketchappsources.com/)
 
 
+### Cool Designers
+ - [Aga Naplocha](http://aganaplocha.com/)
+ - 
+
 ## Awesome IPFS 
 
 ### Framing 
@@ -77,7 +84,7 @@
 ### Learn IPFS
  - https://medium.com/textileio/whats-really-happening-when-you-add-a-file-to-ipfs-ae3b8b5e4b0f listed there
   - https://medium.com/pinata/how-to-keep-your-ipfs-nodes-connected-and-ensure-fast-content-discovery-7d92fb23da46?source=linkShare-a446d4aefa91-1539959998 Pinata Stack
-  -  - https://medium.com/textileio/the-5-steps-to-end-to-end-encrypted-photo-storage-and-sharing-45ad4aad6b14 Textile (Encrypted IPFS)
+  - https://medium.com/@omnigeeker/why-decentralized-storage-also-ensures-that-data-is-not-lost-8b85b17633c5 Why Decentralized Storage also ensures data is not lost
 
 
 ### Cool Projects 
@@ -90,6 +97,7 @@
  - https://github.com/VictorBjelkholm/pincoop Pin Coop around the world
 
  - https://cluster.ipfs.io/documentation/overview/ Pinset orchestration with cluster
+ - https://medium.com/textileio/the-5-steps-to-end-to-end-encrypted-photo-storage-and-sharing-45ad4aad6b14 Textile (Encrypted IPFS)
 
 ### QA
  - https://www.reddit.com/r/ipfs/comments/9snb1s/is_there_such_a_thing_as_a_partial_distributed_pin/
@@ -163,19 +171,34 @@
  - Sam Altman
  
 ### Recommended Books
- - https://fs.blog/reading-2018/
- - https://twitter.com/AustinLieb/status/1065984913453850626
+ - [Farnam Street - RECOMMENDED READING 2018](https://fs.blog/reading-2018/)
+ - [2018 Reads – Joseph Kelly's Blog](https://josephckelly.com/2018/12/09/2018-reads/)
+ - [Austin Lieberman : "here's a short list of people who have inspired me to read more."](https://twitter.com/AustinLieb/status/1065984913453850626)
  - https://twitter.com/cjking711/status/1060734468875534336
- - "The Long Tail" - https://twitter.com/justinsliao/status/1024413666148540417
+ - [Justin Liao: "Really enjoyed "The Long Tail". Big-picture consequence of how our economy and culture is shifting from mass markets to million of niches."](https://twitter.com/justinsliao/status/1024413666148540417)
+ - [Myles Snider: "Thank you for the book recommendations. Here's a list of what was suggested."](https://twitter.com/myles_snider/status/1009443902204579841)
+ - [Patrick OShaughnessy: "I’m often asked how I read so much and how I choose books… " (Twitter)](https://twitter.com/patrick_oshag/status/804756458126639105)
+ - [Shane Parrish: "What’s the best book you read in 2018?" (Twitter)](https://twitter.com/farnamstreet/status/1074496799786713088)
+ - [jbn: "Recommend one book that you read this year" (Twitter)](https://twitter.com/generativist/status/1075754496708497409)
+ - ["The 12 Best Computer Science Books of 2018" (Twitter)](https://twitter.com/StephenPuiszis/status/1075449873745543168)
  - Siddhartha
- - https://twitter.com/myles_snider/status/1009443902204579841
- - https://twitter.com/patrick_oshag/status/804756458126639105
+ - Sapiens
 
+## Awesome Shit. 
 
+### Art/Music on the web
+ -[Ezra Miller Solutions](http://ezramiller.biz/)
+ -[Fractal Fantasy | tour](https://fractalfantasy.net/#/8/tour)
+ -[Dark0 | ARMOUR](https://dark0.tictail.com/)
+ -[WEDIDIT](http://www.wediditcollective.com/)
 
 ### Youtubers
- - Coldfusion
- - Caspian Report
+ - Thoughtful Productions: Coldfusion, Wendover Productions, RealLifeLore, 
+ - Math/Science: Numberphile, Computerphile, 3Blue1Brown, 
+ - Video Games: Game Maker's Toolkit, GDC, 98DEMAKE, Brackeys, 
+ - Coding / Tech: Decypher Media, Code with Mosh, Coding Tech, Computerphile, Siraj Raval
+ - Geopolitics: Caspian Report
+ - Economics / Finance: World Economic Forum, Khan Academy (Finance), 
 
 ## Sort Later
  - https://www.reddit.com/r/Piracy/comments/9z0ow8/follow_up_working_on_new_torrent_search_engine/ Torrent Search engine
