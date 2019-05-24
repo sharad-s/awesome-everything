@@ -20,11 +20,16 @@
 
 ### Learn JS
  - [The JavaScript Handbook (Website)](https://jshandbook.com/)
+ - [JavaScript: Understanding the Weird Parts - The First 3.5 Hours - YouTube](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&feature=youtu.be)
  - [The 21 Best Awesome Lists for Node.js Developers (List)](https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers/)
+
 
 ### Learn CSS
  - [Learn CSS Grid and Flexbox fundamentals before 2019 hits the ground (Medium)](https://medium.com/@shuvohabib/learn-css-grid-and-flexbox-fundamentals-before-2019-hits-the-ground-765010c6e21f?sk=973a4fb7684e11a363d7ad9f03aaf400)
  - [A Complete Guide to Flexbox (Website)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+ - [Grid Garden - A game for learning CSS grid](http://cssgridgarden.com/#en)
+ - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
+
 
 ### CSS Libraries
  - [Nord: An arctic, north-bluish color palette (Github)](https://github.com/arcticicestudio/nord)
@@ -56,7 +61,14 @@
  - https://github.com/unicodeveloper/awesome-tdd#tdd-in-javascript
  - 
 
+### Components
+ - [Writing Reusable React Components with Customize-able Styling](https://itnext.io/writing-customizable-styled-react-components-51d38ed20461) (Medium)
+ - [React "Portals" for Reusable Modals](https://youtu.be/Pa9wo6tzW-w) (Youtube) - Part of a larger series on Reusable Components and Animations in Intermediate React
 
+
+### Libraries
+ - [React Spring](https://github.com/react-spring/react-spring) (Github) -  A spring physics based React animation library [Youtube Tutorial](https://youtu.be/WPNQjDg4dQ0)
+ - 
 
 
 ## Awesome Design 
@@ -88,7 +100,7 @@
 
 
 ### Cool Projects 
- - [IPFSCloud - Build and Host a Website on IPFS in 30 Seconds (LinkedIn)](https://www.linkedin.com/feed/update/activity:6470373542503518208/)
+ - [IPFSCloud - Build and Host a Website on IPFS in 30 Seconds](https://www.linkedin.com/feed/update/activity:6470373542503518208/) (LinkedIn)
  - [IPFSCloud - FAQ](https://ipfscloud.store/app/faq.html)
  - https://github.com/aurelg/ipfs-wormhole
  - https://discuss.ipfs.io/t/sweet-ipfs-full-ipfs-node-for-android/3779?u=lidel Full IPFS for Android
@@ -107,7 +119,7 @@
 ## Awesome Ethereum 
 
 ### Learn 
- - [Learn Vyper In-Browser with Chainshot (Medium)](https://medium.com/coinmonks/learn-the-ethereum-language-vyper-from-within-your-browser-b084ec51302)
+ - [Learn Vyper In-Browser with Chainshot](https://medium.com/coinmonks/learn-the-ethereum-language-vyper-from-within-your-browser-b084ec51302) (Medium)
  - https://cryptozombies.io/en/lesson/9
 
 ### Metamask
@@ -134,7 +146,17 @@
 ### Kyber Network
  - https://developer.kyber.network/docs/WidgetGenerator/
 
+## Awesome Graphql
 
+### Learn GraphQL
+ - [GraphQL vs REST | GraphQL Blog](https://blog.graphqleditor.com/graphql-vs-rest/) (Blog)
+ - [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) (Website)
+ - [Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_) (Youtube Tutorial)
+ [GraphqlQL Tutorial - Dictionary | GraphQL Blog](https://blog.graphqleditor.com/GraphQL-tutorial-dictionary/)
+
+
+### Misc
+ - https://blog.solutotlv.com/graphql-to-mongodb-or-how-i-learned-to-stop-worrying-and-love-generated-query-apis/
 
 ## Awesome Cryptography
 
@@ -169,14 +191,14 @@
  - Paul Graham
  - Michael Seibel
  - Sam Altman
+ - Ribbon Farm
  
 ### Recommended Books
  - [Farnam Street - RECOMMENDED READING 2018](https://fs.blog/reading-2018/)
  - [2018 Reads – Joseph Kelly's Blog](https://josephckelly.com/2018/12/09/2018-reads/)
- - [Austin Lieberman : "here's a short list of people who have inspired me to read more."](https://twitter.com/AustinLieb/status/1065984913453850626)
- - https://twitter.com/cjking711/status/1060734468875534336
- - [Justin Liao: "Really enjoyed "The Long Tail". Big-picture consequence of how our economy and culture is shifting from mass markets to million of niches."](https://twitter.com/justinsliao/status/1024413666148540417)
- - [Myles Snider: "Thank you for the book recommendations. Here's a list of what was suggested."](https://twitter.com/myles_snider/status/1009443902204579841)
+ - [Austin Lieberman : "Here's a short list of people who have inspired me to read more. (Twitter)"](https://twitter.com/AustinLieb/status/1065984913453850626)
+ - [Justin Liao: "Really enjoyed "The Long Tail" (Twitter)"](https://twitter.com/justinsliao/status/1024413666148540417) - "Big-picture consequence of how our economy and culture is shifting from mass markets to million of niches"
+ - [Myles Snider: "Thank you for the book recommendations. Here's a list of what was suggested. (Twitter)"](https://twitter.com/myles_snider/status/1009443902204579841)
  - [Patrick OShaughnessy: "I’m often asked how I read so much and how I choose books… " (Twitter)](https://twitter.com/patrick_oshag/status/804756458126639105)
  - [Shane Parrish: "What’s the best book you read in 2018?" (Twitter)](https://twitter.com/farnamstreet/status/1074496799786713088)
  - [jbn: "Recommend one book that you read this year" (Twitter)](https://twitter.com/generativist/status/1075754496708497409)
@@ -234,7 +256,7 @@
 - https://www.reddit.com/r/learnprogramming/comments/a1be2l/learndb_learn_how_to_program_a_database_from/ learn DB programming
 - https://cs.stanford.edu/people/widom/DB-mooc.html DB MOOC @ stanford
 - https://symsys.stanford.edu/ symbolic systems program @ stanford
-
+- [decrypto-org/blockchain-papers: A curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers) 
 
 
 
